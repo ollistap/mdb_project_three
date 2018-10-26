@@ -1,0 +1,33 @@
+.view {
+    background: url("../img/coding-1853305_1920.jpg")no-repeat center center;
+    background-size: cover;
+}
+
+.view hr{
+    background-color: #ffffff;
+    width: 30%;
+}
+.view h1{
+    font-size: 48px;
+}
+.nav-link{
+    text-decoration: none;
+    color: #757575;
+}
+strong{
+    color: #757575;
+}
+
+
+#container-one {
+    background: #fafafa;
+}
+
+#container-three{
+    background: url("../img/pexels-photo-1466.jpeg")no-repeat center center;
+    background-size: cover;
+}
+
+.nav-item{
+    color: #757575;
+}
